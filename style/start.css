@@ -1,0 +1,15 @@
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+
+/* ----------------------------------------- */
+
+/* :not(:last-child) */
